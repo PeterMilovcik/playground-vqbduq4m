@@ -11,7 +11,7 @@ class Hello
     static void Main() 
     {
 // }
-
+Console.ReadLine();
 Console.WriteLine("Hello World!");
 
 // { autofold
